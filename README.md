@@ -1,5 +1,5 @@
 # Explore US Bikeshare Data
- Udacity Nanodegree Data Analysis Project - Term 1
+Udacity Nanodegree Data Analysis Project - Term 1
 
 In this project, I will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. I will write code to import the data and answer interesting questions about it by computing descriptive statistics. I will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
@@ -12,12 +12,12 @@ Trip Duration (in seconds - e.g., 776)
 Start Station (e.g., Broadway & Barry Ave)
 End Station (e.g., Sedgwick St & North Ave)
 User Type (Subscriber or Customer)
-The Chicago and New York City files also have the following two columns:
 
+The Chicago and New York City files also have the following two columns:
 Gender
 Birth Year
 
-#The Files
+# The Files
 To answer these questions using Python, I will need to write a Python script. I will need the three city dataset files too:
 
 chicago.csv
@@ -49,4 +49,3 @@ average travel time
 counts of each user type
 counts of each gender (only available for NYC and Chicago)
 earliest, most recent, most common year of birth (only available for NYC and Chicago)
-
